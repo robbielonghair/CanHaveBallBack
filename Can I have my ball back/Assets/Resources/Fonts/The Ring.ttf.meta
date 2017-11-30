@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: e8ce3cd1a2d6c5645a6140ea46eecbc4
+timeCreated: 1510864318
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: the ring
+  fontNames:
+  - the ring
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

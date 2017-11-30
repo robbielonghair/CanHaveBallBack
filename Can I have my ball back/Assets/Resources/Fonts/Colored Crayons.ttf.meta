@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 93d972a2346d3894da3ab839c2a8a2a2
+timeCreated: 1510921883
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Colored Crayons
+  fontNames:
+  - Colored Crayons
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
